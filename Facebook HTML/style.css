@@ -1,0 +1,180 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background: #DDDDDD;
+
+}
+header{
+    background: #7D5BA6;
+    height: 82px;
+    border: bottom 1px solid #133783 ;
+  
+}
+.header-block{
+    width: 992px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+.Facebooklogo{
+    width: 50%;
+    float: left;
+    font-family: 'Monoton';
+    font-size: 40px;
+    font-weight: 50px;
+}
+.Facebooklogo label{
+    position: relative;
+    right: -60px;
+   
+}
+
+.Facebooklogin{
+    width: 50%;
+    float: left;
+}
+.header-block label{
+    color: #fff;
+
+}
+.email{
+    float: left;
+    margin-left: 170px;
+}
+.email label{
+    padding-top: 10px;
+}
+.email input[type="text"]{
+    height: 20px;
+    width: 150px;
+    border: 1px solid #DDDDDD;
+}
+.password input[type="password"]{
+    height: 20px;
+    width: 150px;
+    border: 1px solid #DDDDDD;
+}
+.password{
+    float: left;
+    margin-left: 15px;
+}
+.password a{
+    color: #fff;
+}
+.login-button{
+    margin-top: 18px;
+    margin-left: 500px;
+    position: relative;
+
+}
+.password label{
+    padding-bottom: 10px;
+}
+.login-button input[type="submit"]{
+    background-color: #FC6471;
+    border: 1px solid #DDDDDD;
+    border-radius: 2px;
+    color: #fff;
+    height: 20px;
+    width: 50px;
+}
+.clearfix{
+    clear: both;
+}
+.block{
+    width: 992px;
+    margin: 0 auto;
+    position: relative;
+    right: 100px;
+    padding-top: 20px;
+}
+.facebook-connect{
+    margin-top: 50px;
+}
+.facebook-connect p{
+    font-size: 25px;
+    color: #0e385f;
+    font-family: 'Raleway';
+    margin-left: 60px;
+}
+.facebook-connect p{
+    font-size: 20px;
+    font-weight: bold;
+}
+.create-account{
+    position: absolute;
+    overflow: hidden;
+    margin-top: -500px;
+    margin-left: 700px;
+    
+}
+.create-account h2{
+    color: #0e385f;
+    font-family: 'Raleway';
+    font-size:  40px;
+    width: 992px;
+}
+.account {
+    position: relative;
+}
+.create-account p{
+    color: #0e385f;
+    font-family: 'Raleway';
+    font-size:  20px;
+}
+.account input[type="text"]{
+    height: 36px;
+    width: 200px;
+    margin-bottom:  15px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.Mobile input[type="text"]{
+    height: 36px;
+    margin-bottom:  15px;
+    border-radius: 5px;
+    padding: 10px;
+    width: 430px;
+}
+
+.account input[type="password"]{
+    height: 36px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    padding: 10px;
+    width: 430px;
+}
+.account .by-clicking {
+    color:  #77777a;
+    font-family: 'Raleway';
+}
+.account input[type="submit"]{
+    padding: 15px 22px;
+    background: #FC6471;
+    border: 1px solid #DDDDDD ;
+    border-radius: 5px;
+    font-size: 25px;
+    color: #fff;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.dropdownday{
+    width: 50px;
+    height: 30px;
+}
+.dropdownmonth{
+    width: 60px;
+    height: 30px;
+}
+.dropdownyear{
+    width: 50px;
+    height: 30px;
+}
+.account label{
+    color: #0e385f;
+    font-family: 'Raleway';
+    font-size:  20px;
+}
+
